@@ -1,5 +1,7 @@
 class Main{
     public static void main(String[] args) {
-        System.out.print("Это добавлено в ветке dev");
+        while (true){
+            System.out.println("Я хз чё ещё сюда писать");
+        }
     }
 }
